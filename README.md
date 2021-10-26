@@ -9,7 +9,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://scontent.fnvt6-1.fna.fbcdn.net/v/t1.6435-9/93616353_2855797701199467_2880162458327056384_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHBmfRFeXKP7Lcfm8zHEoSLV-mNjQ8QErRX6Y2NDxAStJk33TSRjbApcGocUEGorZuKQHK0WElGLuQ-eoP5P7xF&_nc_ohc=hZeLDxdKduEAX8rD2yK&_nc_oc=AQmy0aMjUNE-ourDVTWdwScvoKTN389qLaiZMxVTqoYvQ0o096zRgqGQuXA6w1fLP7m_Eu5tLzlkLUUNXpZA5waK&_nc_ht=scontent.fnvt6-1.fna&oh=885cafcb14cc959f4c5a4869b84ae6d4&oe=6179048D">
 </div>  
